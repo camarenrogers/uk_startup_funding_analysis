@@ -47,10 +47,7 @@ A time-series line chart with tax year on the x-axis and one line per sector. A 
 **3. Three-sector comparison (tracked sample).**
 A comparison table pitting three focus sectors — Financial and Insurance, Information and Communication, and Health and Social Work — against each other on several "ease of entry" proxies: number of tracked companies, how many are early-stage (Pre-Seed/Seed), average raise, and total raised. There's no single "easiest" column in the data, so the dashboard shows several measures and lets the viewer weigh them: more companies means more openings, more early-stage companies means a lower barrier to entry, and a higher average raise means better-resourced employers. *Answers: which sector would be easiest to enter?*
 
-**4. Companies by stage (tracked sample).**
-A breakdown of the tracked companies by funding stage. Seed and Pre-Seed dominate, which tells a clear story about the character of the sample: these are overwhelmingly early-stage startups. *Answers: what stage are these companies at?*
-
-**5. Companies you could work for or pitch (tracked sample).**
+**4. Companies you could work for or pitch (tracked sample).**
 The most directly actionable tile: a filterable table of named companies, with sector, stage, location, and amount raised. Interactive **drop-down controls** let a viewer filter live by sector and by funding stage, so someone interested in, say, Seed-stage FinTech can narrow the whole table to exactly that in two clicks. This is where the aggregate analysis becomes a concrete list of real companies to approach. *Answers: which specific companies could I work for or pitch to?*
 
 ### How the dashboard connects to the data
