@@ -1,0 +1,48 @@
+sector_name,stage,n
+Construction,Venture,2
+Education,Seed,1
+"Electricity, Gas, Steam and Air Conditioning, Water, Sewerage and Waste",Seed,4
+"Electricity, Gas, Steam and Air Conditioning, Water, Sewerage and Waste",Venture,2
+"Electricity, Gas, Steam and Air Conditioning, Water, Sewerage and Waste","Series B",1
+"Electricity, Gas, Steam and Air Conditioning, Water, Sewerage and Waste",Pre-Seed,1
+"Electricity, Gas, Steam and Air Conditioning, Water, Sewerage and Waste",Series,1
+"Electricity, Gas, Steam and Air Conditioning, Water, Sewerage and Waste","Series A",1
+"Electricity, Gas, Steam and Air Conditioning, Water, Sewerage and Waste",Mezzanine,1
+"Electricity, Gas, Steam and Air Conditioning, Water, Sewerage and Waste",Grant,1
+"Financial and Insurance","Series B",5
+"Financial and Insurance",Seed,4
+"Financial and Insurance",Venture,3
+"Financial and Insurance","Series A",2
+"Financial and Insurance","Series C",1
+"Financial and Insurance",Series,1
+"Financial and Insurance","Private Equity",1
+"Health and Social Work",Seed,4
+"Health and Social Work",Venture,2
+"Health and Social Work","Series A",1
+"Health and Social Work","Private Equity",1
+"Health and Social Work",Series,1
+"Health and Social Work","Series B",1
+"Health and Social Work",Pre-Seed,1
+"Information and Communication",Seed,8
+"Information and Communication","Series A",8
+"Information and Communication",Pre-Seed,7
+"Information and Communication",Venture,5
+"Information and Communication","Series B",3
+"Information and Communication",Series,2
+"Information and Communication","Private Equity",1
+"Information and Communication","Series C",1
+"Information and Communication","Equity Crowdfunding",1
+Manufacturing,Seed,1
+Manufacturing,Venture,1
+Manufacturing,"Private Equity",1
+"Professional, Scientific and Technical",Venture,1
+"Professional, Scientific and Technical","Private Equity",1
+"Transport and Storage","Series A",1
+"Transport and Storage",Venture,1
+"Transport and Storage",Pre-Seed,1
+"Transport and Storage",Seed,1
+"Wholesale and Retail Trade, Repairs",Seed,3
+"Wholesale and Retail Trade, Repairs",Pre-Seed,2
+"Wholesale and Retail Trade, Repairs",Series,1
+"Wholesale and Retail Trade, Repairs",Venture,1
+"Wholesale and Retail Trade, Repairs","Series A",1
