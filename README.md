@@ -32,7 +32,7 @@ The layout is split into two zones, each under its own banner:
 
 **Zone 1 — National picture (HMRC data).** The top of the dashboard uses the official government statistics. These tiles answer the big-picture questions: which sectors attract the most investment across the whole UK, and whether each sector is growing or shrinking over time. Because this data covers every EIS/SEIS company nationally, it's the authoritative view of where capital is actually flowing.
 
-**Zone 2 — Tracked startups (the 96-company sample).** The lower half uses the hand-tracked company data. These tiles get specific and personal: which named companies you could actually work for or pitch to, what funding stage they're at, and how a few key sectors compare on ease of entry. This is the "street-level" view that the aggregate national data can't give you.
+**Zone 2 — Tracked startups (the 66-company sample).** The lower half uses the hand-tracked company data. These tiles get specific and personal: which named companies you could actually work for or pitch to, what funding stage they're at, and how a few key sectors compare on ease of entry. This is the "street-level" view that the aggregate national data can't give you.
 
 Keeping these two zones visually separated — with headers that name the data source — is a deliberate design decision. It signals to anyone reading the dashboard that these are two different lenses on the same theme, and it prevents the common mistake of reading a small sample as if it were the national total.
 
