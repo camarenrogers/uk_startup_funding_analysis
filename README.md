@@ -2,7 +2,7 @@
 
 A SQL data project that builds a relational database of UK startup funding, combines it with official HMRC tax-relief statistics, and surfaces the results in an interactive Looker Studio dashboard.
 
-> **[▶ View the live interactive dashboard](https://lookerstudio.google.com/reporting/YOUR-REPORT-ID)**
+> **[▶ View the live interactive dashboard](https://datastudio.google.com/s/kj0VwYixLug)**
 > *(Replace this link with your published Looker Studio "anyone with the link can view" URL.)*
 
 ![Dashboard overview](dashboard/dashboard_overview.png)
