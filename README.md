@@ -118,27 +118,6 @@ I've documented the judgment calls deliberately, because how ambiguity is handle
 - **Google Sheets** — the stable data source behind the published dashboard
 - **ngrok** — the TCP tunnel used for the live-connection proof of concept
 
----
-
-## Repository structure
-
-```
-uk-startup-funding-analysis/
-├── README.md
-├── sql/
-│   ├── 01_schema_and_setup.sql        # create database, tables, lookups, load company data
-│   ├── 02_company_sector_mapping.sql  # map company industries to SIC sectors + foreign key
-│   ├── 03_load_gov_data.sql           # load all HMRC national statistics
-│   ├── 04_data_quality_checks.sql     # row-count and integrity verification
-│   └── 05_analysis_queries.sql        # the cross-dataset analysis queries
-├── data/
-│   └── (CSV exports of the analysis query results)
-├── dashboard/
-│   ├── dashboard_overview.png         # screenshots of the dashboard
-│   └── dashboard.pdf                  # static export
-└── docs/
-    └── schema_diagram.png
-```
 
 ---
 
